@@ -1,0 +1,1 @@
+monorepo: frontend backend ai-service
